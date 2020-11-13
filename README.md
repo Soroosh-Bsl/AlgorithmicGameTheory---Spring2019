@@ -8,4 +8,4 @@ P2: Linear Programming: Simplyfing a game by deleting its STRICTLY DOMINANT stra
 
 P3: Linear Programming: Solving a ZERO-SUM game by finding its all (including MIXED) Nash equilibriums. 
 
-P4: Solving a "RockPaperScissors15 game" against players with different strategies.
+P4: Solving a "RockPaperScissors15" game against players with different strategies.
